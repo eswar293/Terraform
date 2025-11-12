@@ -1,0 +1,5 @@
+.terraform/*
+.gitattributes
+*.tfvars
+*.tfstate
+*.tfstate.*
